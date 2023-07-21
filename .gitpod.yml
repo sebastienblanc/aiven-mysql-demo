@@ -8,6 +8,6 @@ image:
 
 
 tasks:
-  - init: ./mvnw install -DskipTests=false
+  - init: ./mvnw install -DskipTests=true
 
 
