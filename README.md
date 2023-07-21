@@ -1,3 +1,9 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sebastienblanc/aiven-mysql-demo) 
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sebastienblanc/aiven-mysql-demo)
+
+
+
 It's your first week as an enterprise Java developer and your project manager asks you to build a demo application for a client project. You're excited to take on the challenge, but you're also a bit nervous - you have never built a web application from scratch before. Sit back and relax as we tackle this challenge as a team.
 
 Just like any other problem, a complex problem can be solved if:
